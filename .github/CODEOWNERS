@@ -1,0 +1,20 @@
+# CODEOWNERS - Frontend
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Equipo de Frontend (requerido para todos)
+* @your-github-username
+
+# Components & UI
+/components/ @your-github-username
+
+# App pages
+/app/ @your-github-username
+
+# TypeScript & Configuration
+*.ts @your-github-username
+*.tsx @your-github-username
+*.json @your-github-username
+
+# Testing
+/tests/ @your-github-username
+*.test.* @your-github-username
